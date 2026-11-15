@@ -18,3 +18,8 @@ SQL analysis measuring revenue concentration across sales territories and identi
 Revenue concentration varies substantially across territories. In Canada, only 45 of 1,677 customers (2.68%) generate 80% of revenue, indicating strong dependence on a small number of key accounts. In contrast, Australia requires 1,262 of 3,625 customers (34.81%) to reach the same threshold, suggesting a significantly more diversified customer base. These differences highlight varying levels of customer concentration risk and revenue stability across territories.
 
 
+  ## Data Source
+
+  https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms 
+
+  
