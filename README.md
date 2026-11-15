@@ -11,7 +11,7 @@ SQL analysis measuring revenue concentration across sales territories and identi
 
   ## Tools & Technologies
 
-- SQL (CTEs, Window and Aggregate Functions)
+- SQL (CTEs, ROW_NUMBER(), Window and Aggregate Functions)
 
   ## Key Findings
 
