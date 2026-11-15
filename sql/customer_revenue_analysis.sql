@@ -82,7 +82,7 @@ CustomerCountByTerritory AS (
     GROUP BY TerritoryName
 )
 
--- Combine the results to evaluate revenue concentration across territories
+    
 SELECT
     TR.TerritoryName,
     TR.TerritoryRevenue,
