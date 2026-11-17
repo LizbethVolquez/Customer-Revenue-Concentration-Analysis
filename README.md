@@ -8,15 +8,15 @@ SQL analysis measuring revenue concentration across sales territories and identi
 - How many customers are required to generate 80% of territory revenue?
 - Which territories are most dependent on a small group of high-value customers, and which have the most diversified customer bases?
 
-  ## Tools & Technologies
+## Tools & Technologies
 
 - SQL (CTEs, ROW_NUMBER(), Window and Aggregate Functions)
 
-  ## Key Findings
+## Key Findings
 
 Revenue concentration varies substantially across territories. In Canada, only 45 of 1,677 customers (2.68%) generate 80% of revenue, indicating strong dependence on a small number of key accounts. In contrast, Australia requires 1,262 of 3,625 customers (34.81%) to reach the same threshold, suggesting a significantly more diversified customer base. These differences highlight varying levels of customer concentration risk and revenue stability across territories.
 
-  ## Further Analysis
+## Further Analysis
 
 An important next step is to examine whether Canada’s concentration reflects long-standing customers making repeat purchases or a few unusually large, one-time purchases. Reviewing these customers’ purchase frequency, relationship duration, and revenue contribution over time would help determine whether the pattern is persistent or driven by isolated transactions.
 
