@@ -6,8 +6,7 @@ SQL analysis measuring revenue concentration across sales territories and identi
 
 - How concentrated is revenue across customers in each sales territory?
 - How many customers are required to generate 80% of territory revenue?
-- Which territories are most dependent on a small group of high-value customers?
-- Which territories have the most diversified revenue distribution?
+- Which territories are most dependent on a small group of high-value customers, and which have the most diversified customer bases?
 
   ## Tools & Technologies
 
